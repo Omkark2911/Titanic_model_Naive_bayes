@@ -18,7 +18,7 @@ A Machine Learning project that predicts whether a passenger survived the Titani
 * Handling Missing Values
 * Feature Encoding
 * Train-Test Split
-* Logistic Regression
+* Naive Bayes
 * Model Prediction
 * Model Evaluation
 
