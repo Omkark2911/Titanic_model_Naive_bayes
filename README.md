@@ -10,7 +10,7 @@ A Machine Learning project that predicts whether a passenger survived the Titani
 * Pandas
 * NumPy
 * Scikit-learn
-* Jupyter Notebook
+* Google colab
 
 ## 🔄 Steps
 
